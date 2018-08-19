@@ -1,0 +1,3 @@
+一、构造函数
+	1，获取构造函数String.class.getXXX
+	2.

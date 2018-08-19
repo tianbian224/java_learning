@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AllPerson> 
+  <Person id="1"> 
+    <name>吕仓</name>  
+    <age>25</age>  
+    <gender>男</gender>  
+    <hometown>内蒙古</hometown> 
+  </Person>  
+  <Person id="2"> 
+    <name>令狐冲</name>  
+    <age>95</age>  
+    <gender>男</gender>  
+    <hometown>湖南</hometown> 
+  </Person>  
+  <Person id="3"> 
+    <name>段誉</name>  
+    <age>55</age>  
+    <gender>男</gender>  
+    <hometown>黑龙江</hometown> 
+  </Person>  
+  <Animal name="dongbeihu"> 
+    <name>东北虎</name>  
+    <age>16</age>  
+    <protected>一级保护动物</protected> 
+  </Animal>  
+  <Person id="4"> 
+    <name>王语嫣</name>  
+    <age>95</age>  
+    <gender>女</gender>  
+    <hometown>江西</hometown> 
+  </Person>  
+  <Person id="5"> 
+    <name>彭德凯</name>  
+    <age>35</age>  
+    <gender>女</gender>  
+    <hometown>山西</hometown> 
+  </Person>  
+  <Animal name="jinsihou"> 
+    <name>金丝猴</name>  
+    <age>16</age>  
+    <protected>三级保护动物</protected> 
+  </Animal>  
+  <Animal name="dandinghe" id="45"> 
+    <name>丹顶鹤</name>  
+    <age>16</age>  
+    <protected>一级保护动物</protected>  
+    <food>虫子</food>
+  </Animal>  
+  <Animal name="jinsihou"> 
+    <name>美洲豹</name>  
+    <age>16</age>  
+    <protected>二级保护动物</protected> 
+  </Animal> 
+</AllPerson>

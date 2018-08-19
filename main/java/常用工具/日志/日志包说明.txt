@@ -1,0 +1,7 @@
+一、学习使用log4j
+
+在resources文件夹下建立了日志配置文件：log4j.properties
+
+
+二、 学习使用slf4j
+
