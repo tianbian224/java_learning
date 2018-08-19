@@ -1,4 +1,4 @@
-package 语法.lambda表达式;//  Lvcang created at  2018-02-05 21:51,have fun~
+package 语法.java8语法.lambda表达式;//  Lvcang created at  2018-02-05 21:51,have fun~
 
 
 // 被比较的类

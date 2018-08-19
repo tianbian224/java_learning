@@ -1,4 +1,4 @@
-package 语法.lambda表达式;//  Lvcang created at  2018-02-05 21:48,have fun~
+package 语法.java8语法.lambda表达式;//  Lvcang created at  2018-02-05 21:48,have fun~
 
 import java.util.Arrays;
 import java.util.Comparator;
