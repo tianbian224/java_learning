@@ -6,9 +6,9 @@ import java.lang.reflect.Method;
 // 如何代理
 public class MyInvocationHandler implements InvocationHandler
 {
-	private Actor actor = null;
+	private IActor actor = null;
 
-	public MyInvocationHandler(Actor actor)
+	public MyInvocationHandler(IActor actor)
 	{
 		this.actor = actor;
 	}

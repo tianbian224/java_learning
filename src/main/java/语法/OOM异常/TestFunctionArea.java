@@ -14,6 +14,7 @@ interface Itest
 class Door implements Itest
 {
 
+	@Override
 	public void Play()
 	{
 		System.out.println("nei");
@@ -38,6 +39,7 @@ public class TestFunctionArea
 			enhancer.setCallback(new MethodInterceptor()
 			{
 
+				@Override
 				public Object intercept(Object arg0, Method arg1, Object[] arg2, MethodProxy arg3) throws Throwable
 				{
 					return null;
