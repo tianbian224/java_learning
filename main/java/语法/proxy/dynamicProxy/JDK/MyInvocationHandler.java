@@ -26,9 +26,9 @@ public class MyInvocationHandler implements InvocationHandler
 		// 别的if条件判断其他方法需要被如何代理
 		if (method.getName().equals("show"))
 		{
-			System.out.println("show 方法前准备工作,没有和远平王结婚");
+			System.out.println("show 方法前准备工作");
 			method.invoke(actor, args[0], args[1]);
-			System.out.println("show 方法后，和远平王结婚");
+			System.out.println("show 方法后");
 		}
 		return null;// 是否返回没什么区别
 	}

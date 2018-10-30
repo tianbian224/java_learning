@@ -6,7 +6,7 @@ public class Actor implements IActor
 	@Override
 	public void play(String name)
 	{
-		System.out.println("演员表演" + "___" + name);
+		System.out.println("演员：" + "___" + name);
 	}
 
 	@Override
