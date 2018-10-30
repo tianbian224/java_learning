@@ -2,208 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="513f00ee-03a1-4ca3-a93d-6192d2eac899" name="Default Changelist" comment="学习动态代理">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/java_learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/tcp_udp/Tcp通信/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/tcp_udp/Tcp通信/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/tcp_udp/UDP通信/ServerUDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tcp_udp/UDP通信/ServerUDP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/tcp_udp/UDP通信/UDPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tcp_udp/UDP通信/UDPClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/新版本多线程Lock/CCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/新版本多线程Lock/CCC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/新版本多线程Lock/PPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/新版本多线程Lock/PPP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/新版本多线程Lock/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/新版本多线程Lock/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/新版本多线程Lock/ZiYuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/新版本多线程Lock/ZiYuan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/死锁验证/MyLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/死锁验证/MyLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/死锁验证/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/死锁验证/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/死锁验证/ProDeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/死锁验证/ProDeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程/MaiPiao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程/MaiPiao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程/MyRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程/MyRunable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程/TTTT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程/TTTT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程/ThreadExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程/ThreadExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程___生产者消费者/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程___生产者消费者/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程___生产者消费者/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程___生产者消费者/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程___生产者消费者/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程___生产者消费者/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程___生产者消费者/ZiYuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程___生产者消费者/ZiYuan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程安全/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程安全/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程安全/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程安全/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程安全/ProBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程安全/ProBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程练习/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程练习/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程练习/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程练习/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程练习/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程练习/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程练习/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程练习/Resource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程间通信/InPut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程间通信/InPut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程间通信/Output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程间通信/Output.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程间通信/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程间通信/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/thread/线程间通信/ZiYuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/线程间通信/ZiYuan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/习题/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/习题/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/习题/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/习题/Super.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/常用工具/XML操作/Person.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/常用工具/XML操作/Person.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/常用工具/XML操作/Person_copy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/常用工具/XML操作/Person_copy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/常用工具/XML操作/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/常用工具/XML操作/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/常用工具/日志/log4j__Demo/Log4jTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/常用工具/日志/log4j__Demo/Log4jTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/常用工具/日志/slf4j__Demo/Slf4jTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/常用工具/日志/slf4j__Demo/Slf4jTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/常用工具/日志/日志包说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/常用工具/日志/日志包说明.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/单例模式/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/命令模式/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/命令模式/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/命令模式/ICommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/命令模式/ICommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/命令模式/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/命令模式/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/命令模式/RemoteControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/命令模式/RemoteControler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/命令模式/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/命令模式/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/命令模式/TurnOffLightCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/命令模式/TurnOffLightCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/命令模式/TurnOffTVCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/命令模式/TurnOffTVCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/命令模式/TurnOnLightCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/命令模式/TurnOnLightCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/命令模式/TurnOnTVCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/命令模式/TurnOnTVCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/外观模式/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/外观模式/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/外观模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/外观模式/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/外观模式/SubSystem/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/外观模式/SubSystem/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/外观模式/SubSystem/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/外观模式/SubSystem/Disk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/外观模式/SubSystem/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/外观模式/SubSystem/Memory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/外观模式/SubSystem/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/外观模式/SubSystem/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/模板模式/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/模板模式/AbstractClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/模板模式/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/模板模式/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/模板模式/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/模板模式/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/模板模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/模板模式/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/BehaviorImplement/MoveRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/BehaviorImplement/MoveRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/BehaviorImplement/MoveSwim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/BehaviorImplement/MoveSwim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/BehaviorImplement/WeaponGun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/BehaviorImplement/WeaponGun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/BehaviorImplement/WeaponKnife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/BehaviorImplement/WeaponKnife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/BehaviorInterface/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/BehaviorInterface/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/BehaviorInterface/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/BehaviorInterface/Weapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/RoleKiller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/RoleKiller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/策略模式/说明.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略模式/说明.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/装饰模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/装饰模式/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/装饰模式/被装饰类/Workcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/装饰模式/被装饰类/Workcode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/装饰模式/装饰类/LoggingRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/装饰模式/装饰类/LoggingRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/装饰模式/装饰类/TransactionRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/装饰模式/装饰类/TransactionRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/发布者/WeatherCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/发布者/WeatherCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/自己写观察者模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/自己写观察者模式/发布者/NewsSubjectI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/NewsSubjectI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/自己写观察者模式/发布者/PoliticalNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/PoliticalNews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/自己写观察者模式/发布者/StockNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/StockNews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/DoctorObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/DoctorObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/SubscriberI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/SubscriberI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/TeacherObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/TeacherObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/适配器模式/ChinaInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/ChinaInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/适配器模式/EuropeInferface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/EuropeInferface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/适配器模式/EuropePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/EuropePower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/适配器模式/EuropeToChinaAdaptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/EuropeToChinaAdaptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/适配器模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/设计模式/适配器模式/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/说明.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/ClassForName加载类/ChaZuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/ClassForName加载类/ChaZuo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/ClassForName加载类/DianShi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/ClassForName加载类/DianShi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/ClassForName加载类/GetClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/ClassForName加载类/GetClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/ClassForName加载类/JiaReQi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/ClassForName加载类/JiaReQi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/ClassForName加载类/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/ClassForName加载类/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/Java基础类库/Integer_Test/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/Java基础类库/Integer_Test/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/Java基础类库/RandomDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/Java基础类库/RandomDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/Java基础类库/RuntimeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/Java基础类库/RuntimeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/Java基础类库/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/Java基础类库/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/Java基础类库/大数字/BigDecimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/Java基础类库/大数字/BigDecimalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/Java基础类库/数组/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/Java基础类库/数组/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/Java基础类库/时间/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/Java基础类库/时间/CalendarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/Java基础类库/输入输出/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/Java基础类库/输入输出/ScannerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/Java基础类库/输入输出/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/Java基础类库/输入输出/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/OOM异常/TestConstPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/OOM异常/TestConstPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/OOM异常/TestFunctionArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/OOM异常/TestFunctionArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/OOM异常/TestHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/OOM异常/TestHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/OOM异常/TestMultiThreadStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/OOM异常/TestMultiThreadStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/OOM异常/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/OOM异常/TestStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/compare比较大小/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/compare比较大小/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/compare比较大小/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/compare比较大小/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/equals_hash_相关/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/equals_hash_相关/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/FileInputstream练习/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/FileInputstream练习/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/FileOutputstream练习/FileOutputStream练习.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/FileOutputstream练习/FileOutputStream练习.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/FileOutputstream练习/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/FileOutputstream练习/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/FileOutputstream练习/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/FileOutputstream练习/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/FileWriter练习/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/FileWriter练习/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/File类练习/FileExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/File类练习/FileExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/Properties练习/PropertiesEX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/Properties练习/PropertiesEX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/Reader基类/FileReader练习/FileReader___Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/Reader基类/FileReader练习/FileReader___Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/Reader基类/InputStreamReader练习/InputStreamReader__Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/Reader基类/InputStreamReader练习/InputStreamReader__Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/从键盘写入到文件/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/从键盘写入到文件/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/复制文件___文本/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/复制文件___文本/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/io/键盘的录入/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/io/键盘的录入/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/java8语法/lambda表达式/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/java8语法/lambda表达式/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/java8语法/lambda表达式/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/java8语法/lambda表达式/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/java8语法/stream语法/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/java8语法/stream语法/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/java数据结构/Collection体系/TestSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/java数据结构/Collection体系/TestSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/java数据结构/Collection体系/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/java数据结构/Collection体系/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/java数据结构/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/java数据结构/IteratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/java数据结构/Map体系/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/java数据结构/Map体系/TestMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/jvm/分派/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/jvm/分派/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/jvm/反编译/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/jvm/反编译/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/jvm/反编译/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/jvm/反编译/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/dynamicProxy/Cglib/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/Cglib/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/dynamicProxy/JDK/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/dynamicProxy/JDK/IActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/IActor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/dynamicProxy/JDK/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/MyInvocationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/dynamicProxy/JDK/Pro2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/staticProxy_zhuangshi/InterfaceStudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/staticProxy_zhuangshi/InterfaceStudentManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/staticProxy_zhuangshi/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/staticProxy_zhuangshi/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/staticProxy_zhuangshi/StudentManagerImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/staticProxy_zhuangshi/StudentManagerImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/staticProxy_zhuangshi/StudentManagerImpProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/staticProxy_zhuangshi/StudentManagerImpProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/proxy/动态代理/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/动态代理/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/tryCatchFinally/TTTCCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/tryCatchFinally/TTTCCC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/内部类/OutterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/OutterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/内部类/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/反射/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/反射/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/反射/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/反射/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/反射/pp.ini" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/反射/pp.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/反射/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/反射/说明.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/基础语法/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/基础语法/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/基础语法/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/基础语法/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/基础语法/数组/TestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/基础语法/数组/TestArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之抽象/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之抽象/AbstractClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/final类与编译期错误/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/final类与编译期错误/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/final类与编译期错误/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/final类与编译期错误/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/final类与编译期错误/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/final类与编译期错误/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/final类与编译期错误/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/final类与编译期错误/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/final类与编译期错误/TomCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/final类与编译期错误/TomCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/父子类方法调用/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/父子类方法调用/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/父子类方法调用/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/父子类方法调用/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/父子类方法调用/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/父子类方法调用/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/父类构造器中有this/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/父类构造器中有this/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/多态/多态之继承/继承构造函数/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/多态/多态之继承/继承构造函数/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/对象初始化顺序/AAA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/对象初始化顺序/AAA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/对象初始化顺序/BBB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/对象初始化顺序/BBB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/对象初始化顺序/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/对象初始化顺序/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/序列化验证/NonSerilize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/序列化验证/NonSerilize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/序列化验证/PRo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/序列化验证/PRo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/序列化验证/SubSerilize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/序列化验证/SubSerilize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/序列化验证/UsedToSerialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/序列化验证/UsedToSerialize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/接口/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/接口/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/接口/接口定义/IDefine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/接口/接口定义/IDefine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/日期相关/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/日期相关/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/泛型/TestGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/泛型/TestGeneric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/注解的使用/Lvc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/注解的使用/Lvc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/注解的使用/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/注解的使用/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/深拷贝浅拷贝/浅拷贝/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/深拷贝浅拷贝/浅拷贝/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/深拷贝浅拷贝/浅拷贝/Qian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/深拷贝浅拷贝/浅拷贝/Qian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/深拷贝浅拷贝/深拷贝/Shen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/深拷贝浅拷贝/深拷贝/Shen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/自定义异常/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/自定义异常/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/自定义异常/HisException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/自定义异常/HisException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/自定义异常/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/自定义异常/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/自定义异常/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/自定义异常/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/自定义异常/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/自定义异常/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/自定义异常/YourException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/自定义异常/YourException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/java/语法/路径问题/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/路径问题/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_alpha2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_8_0_alpha2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/语法/反射/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/语法/反射/说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -222,30 +27,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="16" />
           <entry key="txt" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="27" />
+          <entry key="java" value="396" />
           <entry key="txt" value="6" />
-          <entry key="xml" value="101" />
+          <entry key="xml" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="396" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="XML" value="101" />
+          <entry key="XML" value="103" />
         </counts>
       </usages-collector>
     </session>
@@ -255,8 +60,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/IActor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -264,69 +81,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/MyInvocationHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="114">
+              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+            <state relative-caret-position="38">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/语法/反射/说明.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/语法/自定义异常/HisException.java">
+        <entry file="jar://D:/Dev_tools/jdk18/src.zip!/java/lang/reflect/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/语法/OOM异常/TestFunctionArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/常用工具/XML操作/Pro.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="181">
+              <caret line="729" column="38" selection-start-line="729" selection-start-column="36" selection-end-line="729" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ih</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -337,9 +121,9 @@
         <option value="$PROJECT_DIR$/main/java/语法/proxy/dynamicProxy/JDK/Actor.java" />
         <option value="$PROJECT_DIR$/main/java/语法/proxy/dynamicProxy/JDK/MyInvocationHandler.java" />
         <option value="$PROJECT_DIR$/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java" />
         <option value="$PROJECT_DIR$/src/main/java/语法/OOM异常/TestFunctionArea.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java" />
       </list>
     </option>
   </component>
@@ -355,12 +139,20 @@
         <option name="mavenHome" value="D:/Dev_tools/apache-maven-3.5.4-bin/apache-maven-3.0.5" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -421,6 +213,17 @@
               <item name="proxy" type="462c0819:PsiDirectoryNode" />
               <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="语法" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="JDK" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -430,14 +233,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540871251388" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540875727654" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -459,6 +262,29 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Pro1.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="语法.proxy.dynamicProxy.JDK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="语法.proxy.dynamicProxy.JDK" />
+      <option name="MAIN_CLASS_NAME" value="语法.proxy.dynamicProxy.JDK.Pro1" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Pro1.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -469,7 +295,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540869822687</updated>
-      <workItem from="1540869831132" duration="1330000" />
+      <workItem from="1540869831132" duration="3966000" />
     </task>
     <task id="LOCAL-00001" summary="学习动态代理">
       <created>1540870274969</created>
@@ -478,11 +304,32 @@
       <option name="project" value="LOCAL" />
       <updated>1540870274969</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="学习动态代理">
+      <created>1540871440591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540871440591</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Pro1_main - 2018.10.30 at 12h 01m 25s.xml">
+      <configuration name="Pro1.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Pro1_main - 2018.10.30 at 12h 47m 51s.xml">
+      <configuration name="Pro1.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Pro1_main - 2018.10.30 at 12h 48m 42s.xml">
+      <configuration name="Pro1.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Pro1_main - 2018.10.30 at 12h 56m 54s.xml">
+      <configuration name="Pro1.main" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1330000" />
+    <option name="totallyTimeSpent" value="3966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -493,17 +340,17 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19364598" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24130106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.41337907" />
+      <window_info anchor="bottom" id="Messages" weight="0.26929674" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32933104" />
+      <window_info anchor="bottom" id="Terminal" weight="0.17324185" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21783876" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,13 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/MyInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/语法/反射/说明.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -566,32 +406,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/常用工具/XML操作/Pro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="88">
+          <caret line="90" column="31" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/IActor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/Cglib/Pro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="95">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="227">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/常用工具/日志/slf4j__Demo/Slf4jTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/常用工具/日志/log4j__Demo/Log4jTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Dev_tools/jdk18/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="843" column="22" selection-start-line="843" selection-start-column="22" selection-end-line="843" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/IActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/MyInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Dev_tools/jdk18/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="729" column="38" selection-start-line="729" selection-start-column="36" selection-end-line="729" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/Pro1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
