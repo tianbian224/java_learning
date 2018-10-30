@@ -1,4 +1,4 @@
-package 设计模式.适配器模式.case1;
+package 设计模式.适配器模式.对象适配器;
 
 public class ACpower {
     public int getACpower() {
