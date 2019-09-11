@@ -35,12 +35,3 @@ public class Client
     }
 
 }
-
-class Testl
-{
-    public static void main(String Oargs)
-    {
-        int i = -2000000000;
-        System.out.println(i >>> 30);
-    }
-}

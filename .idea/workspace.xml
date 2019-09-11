@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="513f00ee-03a1-4ca3-a93d-6192d2eac899" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/qita/DownloadSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/局部内部类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/成员内部类/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/成员内部类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/静态内部类/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/静态内部类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_alpha2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_alpha2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_8_0_alpha2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_8_0_alpha2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/语法/内部类/OutterClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/语法/内部类/Pro.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,33 +82,46 @@
     <session id="-2035707206">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="35" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="35" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="1143" />
-          <entry key="txt" value="12" />
+          <entry key="java" value="4914" />
+          <entry key="txt" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1143" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="JAVA" value="4914" />
+          <entry key="PLAIN_TEXT" value="60" />
         </counts>
       </usages-collector>
     </session>
@@ -95,106 +129,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/适配器模式/对象适配器/AC2DCadaptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-              <folding>
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/适配器模式/ChinaInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/适配器模式/EuropeInferface.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/静态内部类/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/适配器模式/EuropePower.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/适配器模式/EuropeToChinaAdaptor.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/享元模式/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/享元模式/Worker.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/常用工具/日志/log4j__Demo/Log4jTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-              <folding>
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/享元模式/WorkerFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/习题/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="399">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/qita/DownloadSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/享元模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/语法/tryCatchFinally/TTTCCC.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1064">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="589">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -240,6 +253,23 @@
         <option value="$PROJECT_DIR$/src/main/java/设计模式/享元模式/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/享元模式/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/享元模式/Worker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/语法/内部类/成员内部类/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/语法/内部类/成员内部类/Outer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/语法/内部类/局部内部类/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/语法/内部类/静态内部类/Outer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/语法/内部类/静态内部类/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/语法/内部类/题目/Pro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effective_Java/说明.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/effective_Java/第七章__方法/Rule38_checkParam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effective_Java/第七章__方法/Rule39_protectCopy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effective_Java/第7章__方法/Rule39_protectCopy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effective_Java/第8章__通用程序设计/Rule46__minLocalVal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effective_Java/第7章__方法/Info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effective_Java/第7章__方法/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/qita/DownloadSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java" />
       </list>
     </option>
   </component>
@@ -274,10 +304,10 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,7 +339,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="语法" type="462c0819:PsiDirectoryNode" />
+              <item name="qita" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
@@ -317,34 +347,44 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="语法" type="462c0819:PsiDirectoryNode" />
-              <item name="tryCatchFinally" type="462c0819:PsiDirectoryNode" />
+              <item name="tcp_udp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tcp_udp" type="462c0819:PsiDirectoryNode" />
+              <item name="Tcp通信" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541512841447" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559390154425" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\CodeLib\JavaWorkSpace\java_learning" />
+      <recent name="D:\MyCode\java_learning" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\MyCode\java_learning\src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\MyCode\java_learning" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -359,13 +399,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="TTTCCC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="语法.tryCatchFinally.TTTCCC" />
+  <component name="RunManager" selected="Application.DownloadSource">
+    <configuration name="DownloadSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qita.DownloadSource" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="语法.tryCatchFinally.*" />
+          <option name="PATTERN" value="qita.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,12 +413,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="设计模式.享元模式.Test" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="语法.内部类.题目.Test2" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="设计模式.享元模式.*" />
+          <option name="PATTERN" value="语法.内部类.题目.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,12 +426,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="设计模式.适配器模式.对象适配器.Test" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="语法.内部类.题目.Test3" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="设计模式.适配器模式.对象适配器.*" />
+          <option name="PATTERN" value="语法.内部类.题目.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,52 +439,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pro1.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Rule39_protectCopy.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="语法.proxy.dynamicProxy.JDK.*" />
+          <option name="PATTERN" value="effective_Java.第7章__方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="语法.proxy.dynamicProxy.JDK" />
-      <option name="MAIN_CLASS_NAME" value="语法.proxy.dynamicProxy.JDK.Pro1" />
-      <option name="METHOD_NAME" value="main" />
+      <option name="PACKAGE_NAME" value="effective_Java.第7章__方法" />
+      <option name="MAIN_CLASS_NAME" value="effective_Java.第7章__方法.Rule39_protectCopy" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TTTCCC.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="语法.tryCatchFinally.*" />
+          <option name="PATTERN" value="语法.内部类.成员内部类.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="语法.tryCatchFinally" />
-      <option name="MAIN_CLASS_NAME" value="语法.tryCatchFinally.TTTCCC" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="语法.内部类.成员内部类" />
+      <option name="MAIN_CLASS_NAME" value="语法.内部类.成员内部类.Test" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Pro1.main" />
-      <item itemvalue="JUnit.TTTCCC.test" />
-      <item itemvalue="Application.TTTCCC" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="JUnit.Test.test1" />
+      <item itemvalue="Application.Test3" />
+      <item itemvalue="JUnit.Rule39_protectCopy.test1" />
+      <item itemvalue="Application.DownloadSource" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TTTCCC" />
-        <item itemvalue="JUnit.TTTCCC.test" />
-        <item itemvalue="JUnit.Pro1.main" />
+        <item itemvalue="Application.DownloadSource" />
+        <item itemvalue="JUnit.Rule39_protectCopy.test1" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="JUnit.Test.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -462,6 +502,20 @@
       <workItem from="1540889130182" duration="648000" />
       <workItem from="1540912815472" duration="4844000" />
       <workItem from="1541088062414" duration="1661000" />
+      <workItem from="1541816860350" duration="5132000" />
+      <workItem from="1543418872558" duration="259000" />
+      <workItem from="1543543091549" duration="127000" />
+      <workItem from="1547373121023" duration="2289000" />
+      <workItem from="1548771535726" duration="598000" />
+      <workItem from="1549110808594" duration="5000" />
+      <workItem from="1549506388836" duration="1228000" />
+      <workItem from="1550707957482" duration="617000" />
+      <workItem from="1551274318624" duration="4466000" />
+      <workItem from="1551365804503" duration="1820000" />
+      <workItem from="1552108997941" duration="19000" />
+      <workItem from="1559388193343" duration="1969000" />
+      <workItem from="1559977656992" duration="49000" />
+      <workItem from="1568171220798" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="学习动态代理">
       <created>1540870274969</created>
@@ -524,14 +578,24 @@
     <history-entry file="TTTCCC_test - 2018.10.30 at 13h 06m 55s.xml">
       <configuration name="TTTCCC.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Rule39_protectCopy_test1 - 2019.02.27 at 22h 32m 23s.xml">
+      <configuration name="Rule39_protectCopy.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Rule39_protectCopy_test1 - 2019.02.27 at 22h 32m 33s.xml">
+      <configuration name="Rule39_protectCopy.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Rule39_protectCopy_test1 - 2019.02.27 at 22h 34m 53s.xml">
+      <configuration name="Rule39_protectCopy.test1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14224000" />
+    <option name="totallyTimeSpent" value="32894000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1080" width="1920" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16630901" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -540,18 +604,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.24721603" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.42491657" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29845625" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946353" weight="0.33408833" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49892703" visible="true" weight="0.33975086" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49892703" weight="0.3337041" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005365" side_tool="true" weight="0.24813631" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946353" weight="0.26730564" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946353" weight="0.2669633" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3295699" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -561,6 +624,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295699" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/常用工具/日志/log4j__Demo/Log4jTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Dev_tools/jdk18/src.zip!/java/lang/Class.java" />
     <entry file="jar://D:/Dev_tools/jdk18/src.zip!/java/lang/reflect/Proxy.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/语法/proxy/dynamicProxy/JDK/MyInvocationHandler.java">
@@ -726,10 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -772,10 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,9 +832,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,14 +842,119 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/OutterClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/题目.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/语法/tryCatchFinally/TTTCCC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1064">
+        <state>
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/成员内部类/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/成员内部类/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effective_Java/说明.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/effective_Java/第7章__方法/Rule38_checkParam.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/局部内部类/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/静态内部类/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effective_Java/第7章__方法/Rule39_protectCopy.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/effective_Java/第8章__通用程序设计/Rule46__minLocalVal.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/effective_Java/第7章__方法/Info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/effective_Java/第7章__方法/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/静态内部类/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/常用工具/日志/log4j__Demo/Log4jTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/习题/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/qita/DownloadSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
         </state>
       </provider>
     </entry>
