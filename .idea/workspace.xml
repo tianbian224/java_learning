@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="513f00ee-03a1-4ca3-a93d-6192d2eac899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/qita/DownloadSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/局部内部类/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/成员内部类/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/成员内部类/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/静态内部类/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/静态内部类/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/语法/内部类/题目/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_alpha2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_alpha2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_8_0_alpha2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_8_0_alpha2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/语法/内部类/OutterClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/语法/内部类/Pro.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,7 +61,7 @@
     <session id="-2035707206">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
@@ -101,26 +80,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="35" />
+          <entry key="java" value="36" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="35" />
+          <entry key="JAVA" value="36" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="4914" />
+          <entry key="java" value="5054" />
           <entry key="txt" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4914" />
+          <entry key="JAVA" value="5054" />
           <entry key="PLAIN_TEXT" value="60" />
         </counts>
       </usages-collector>
@@ -194,20 +173,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="532">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="356">
+              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -270,6 +249,7 @@
         <option value="$PROJECT_DIR$/src/main/java/effective_Java/第7章__方法/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/qita/DownloadSource.java" />
         <option value="$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/BrowserClient.java" />
       </list>
     </option>
   </component>
@@ -293,7 +273,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -369,7 +349,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559390154425" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568208327536" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -399,7 +379,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DownloadSource">
+  <component name="RunManager" selected="Application.BrowserClient">
+    <configuration name="BrowserClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tcp_udp.Tcp通信.BrowserClient" />
+      <module name="java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tcp_udp.Tcp通信.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DownloadSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="qita.DownloadSource" />
       <module name="java_learning" />
@@ -455,36 +448,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="语法.内部类.成员内部类.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="语法.内部类.成员内部类" />
-      <option name="MAIN_CLASS_NAME" value="语法.内部类.成员内部类.Test" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Test2" />
-      <item itemvalue="JUnit.Test.test1" />
       <item itemvalue="Application.Test3" />
       <item itemvalue="JUnit.Rule39_protectCopy.test1" />
       <item itemvalue="Application.DownloadSource" />
+      <item itemvalue="Application.BrowserClient" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BrowserClient" />
         <item itemvalue="Application.DownloadSource" />
         <item itemvalue="JUnit.Rule39_protectCopy.test1" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="JUnit.Test.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -515,7 +492,7 @@
       <workItem from="1552108997941" duration="19000" />
       <workItem from="1559388193343" duration="1969000" />
       <workItem from="1559977656992" duration="49000" />
-      <workItem from="1568171220798" duration="92000" />
+      <workItem from="1568171220798" duration="3739000" />
     </task>
     <task id="LOCAL-00001" summary="学习动态代理">
       <created>1540870274969</created>
@@ -589,13 +566,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32894000" />
+    <option name="totallyTimeSpent" value="36541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16630901" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16630901" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -604,15 +581,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946353" weight="0.42491657" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49892703" weight="0.42491657" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29845625" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946353" weight="0.33408833" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49892703" weight="0.3337041" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005365" side_tool="true" weight="0.24813631" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49892703" weight="0.24249166" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50107294" side_tool="true" visible="true" weight="0.24805339" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946353" weight="0.2669633" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -944,17 +921,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Server.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="532">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/BrowserClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        <state relative-caret-position="154">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tcp_udp/Tcp通信/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
         </state>
       </provider>
     </entry>
