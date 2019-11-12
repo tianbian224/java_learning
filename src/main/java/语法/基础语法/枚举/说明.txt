@@ -1,0 +1,19 @@
+枚举值默认为从0开始的有序数值。
+enum是一种受限制的类，并且具有自己的方法。创建enum时，编译器会为你生成一个相关的类，这个类继承自 java.lang.Enum
+在enum中，提供了一些基本方法：
+
+        values()：返回 enum 实例的数组，而且该数组中的元素严格保持在 enum 中声明时的顺序。
+
+        name()：返回实例名。
+
+        ordinal()：返回实例声明时的次序，从0开始。
+
+        getDeclaringClass()：返回实例所属的 enum 类型。
+
+        equals() ：判断是否为同一个对象。 可以使用 == 来比较enum实例。
+
+        此外，java.lang.Enum实现了Comparable和 Serializable 接口，所以也提供 compareTo() 方法。
+
+枚举中可以定义普通方法、静态方法、抽象方法、构造方法
+enum 可以像一般类一样实现接口。
+enum 不可以继承另外一个类，当然，也不能继承另一个 enum 。
