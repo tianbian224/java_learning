@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="513f00ee-03a1-4ca3-a93d-6192d2eac899" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/JavaVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/PythonVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/VideoFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -88,7 +94,7 @@
       <recent name="D:\MyCode\java_learning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="BrowserClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tcp_udp.Tcp通信.BrowserClient" />
       <module name="java_learning" />
@@ -102,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DownloadSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qita.DownloadSource" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.工厂模式.工厂方法.Test" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qita.*" />
+          <option name="PATTERN" value="设计模式.工厂模式.工厂方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DownloadSource" />
       <item itemvalue="Application.BrowserClient" />
       <item itemvalue="Application.Test" />
       <item itemvalue="JUnit.Test.test" />
       <item itemvalue="JUnit.Test.test (1)" />
+      <item itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.Test.test (1)" />
         <item itemvalue="JUnit.Test.test" />
         <item itemvalue="Application.BrowserClient" />
-        <item itemvalue="Application.DownloadSource" />
       </list>
     </recent_temporary>
   </component>
@@ -329,10 +335,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="学习享元模式" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1589514271945">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/6.-1080.1920.1050@0.0.1920.1050" timestamp="1589514271945" />
     <state x="744" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589513393321">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="744" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/6.-1080.1920.1050@0.0.1920.1050" timestamp="1589513393321" />
+    <state x="719" y="325" key="git4idea.merge.GitMergeDialog" timestamp="1589513731308">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="719" y="325" key="git4idea.merge.GitMergeDialog/0.0.1920.1050/6.-1080.1920.1050@0.0.1920.1050" timestamp="1589513731308" />
   </component>
   <component name="masterDetails">
     <states>
