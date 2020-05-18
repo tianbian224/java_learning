@@ -7,40 +7,36 @@ import java.util.ArrayList;
 /**
  * 股票新闻
  */
-public class StockNews implements NewsSubjectI
-{
+public class StockNews implements NewsSubjectI {
     private ArrayList<SubscriberI> observors;// 订阅者列表
 
-    public StockNews()
-    {
+    public StockNews() {
         this.observors = new ArrayList();
     }
 
     //产生新的新闻
-    public void report(String news)
-    {
+    public void report(String news) {
         System.out.println("股票主题发布：" + news);
         notice(news);
 
     }
 
-    public void regist(SubscriberI observer)
-    {
+    @Override
+    public void regist(SubscriberI observer) {
         // 谁订阅，就把谁添加到订阅者列表当中
         this.observors.add(observer);
     }
 
-    public void remove(SubscriberI observer)
-    {
+    @Override
+    public void remove(SubscriberI observer) {
         //取消订阅，就把他 从订阅者列表中删除
         this.observors.remove(observer);
     }
 
-    public void notice(String news)
-    {
+    @Override
+    public void notice(String news) {
         // 出现事件，就执行所有订阅者的方法
-        for (SubscriberI s : observors)
-        {
+        for (SubscriberI s : observors) {
             s.update(news);
             Math.min(10, 10);
         }

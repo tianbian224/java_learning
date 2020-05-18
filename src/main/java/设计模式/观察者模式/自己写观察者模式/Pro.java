@@ -4,8 +4,6 @@ import 设计模式.观察者模式.自己写观察者模式.发布者.StockNews
 import 设计模式.观察者模式.自己写观察者模式.订阅者.DoctorObserver;
 import 设计模式.观察者模式.自己写观察者模式.订阅者.TeacherObserver;
 
-import java.net.SocketTimeoutException;
-
 // 测试：观察者模式
 
 /**
@@ -15,10 +13,8 @@ import java.net.SocketTimeoutException;
  * 3. 事件处理函数。也就是事件出现时的处理方法
  * 4. 触发事件
  */
-public class Pro
-{
-    public static void main(String[] args)
-    {
+public class Pro {
+    public static void main(String[] args) {
         // 发布者
         StockNews stockNews = new StockNews();
         // 订阅者

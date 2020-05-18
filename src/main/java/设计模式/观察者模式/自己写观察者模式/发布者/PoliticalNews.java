@@ -5,20 +5,19 @@ import 设计模式.观察者模式.自己写观察者模式.订阅者.Subscribe
 /**
  * 政治新闻
  */
-public class PoliticalNews implements NewsSubjectI
-{
-    @Override public void regist(SubscriberI observer)
-    {
+public class PoliticalNews implements NewsSubjectI {
+    @Override
+    public void regist(SubscriberI observer) {
 
     }
 
-    @Override public void remove(SubscriberI observer)
-    {
+    @Override
+    public void remove(SubscriberI observer) {
 
     }
 
-    @Override public void notice(String news)
-    {
+    @Override
+    public void notice(String news) {
 
     }
 }

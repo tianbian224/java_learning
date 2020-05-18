@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="513f00ee-03a1-4ca3-a93d-6192d2eac899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/JavaVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/PythonVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂模式/工厂方法/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/发布/FootballNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/发布/INewsCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/发布/StockNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/订阅/IListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/订阅/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/装饰模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/装饰模式/Pro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/Pro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/PoliticalNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/PoliticalNews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/StockNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/StockNews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/DoctorObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/DoctorObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/TeacherObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/TeacherObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/Pro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/说明.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,21 +96,24 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyCode\java_learning\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="设计模式.观察者模式.重写.发布" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\CodeLib\JavaWorkSpace\java_learning" />
       <recent name="D:\MyCode\java_learning" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\MyCode\java_learning\src" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="BrowserClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tcp_udp.Tcp通信.BrowserClient" />
+  <component name="RunManager" selected="Application.Pro">
+    <configuration name="Pro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.观察者模式.重写.Pro" />
       <module name="java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tcp_udp.Tcp通信.*" />
+          <option name="PATTERN" value="设计模式.观察者模式.重写.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +180,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BrowserClient" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
       <item itemvalue="JUnit.Test.test" />
       <item itemvalue="JUnit.Test.test (1)" />
-      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Pro" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pro" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.Test.test (1)" />
         <item itemvalue="JUnit.Test.test" />
-        <item itemvalue="Application.BrowserClient" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +237,7 @@
       <workItem from="1574001167348" duration="5890000" />
       <workItem from="1574087105781" duration="4763000" />
       <workItem from="1589513043421" duration="348000" />
+      <workItem from="1589772427096" duration="4878000" />
     </task>
     <task id="LOCAL-00001" summary="学习动态代理">
       <created>1540870274969</created>
@@ -335,10 +349,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="学习享元模式" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1589514271945">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="2685" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1589792306921">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
+    <state x="2685" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589792306921" />
     <state x="765" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/6.-1080.1920.1050@0.0.1920.1050" timestamp="1589514271945" />
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom" timestamp="1589793164299">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589793164299" />
+    <state width="1877" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1050/6.-1080.1920.1050@0.0.1920.1050" timestamp="1589534982094" />
+    <state width="1877" height="215" key="GridCell.Tab.0.center" timestamp="1589793164298">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589793164298" />
+    <state width="1877" height="215" key="GridCell.Tab.0.center/0.0.1920.1050/6.-1080.1920.1050@0.0.1920.1050" timestamp="1589534982093" />
+    <state width="1877" height="215" key="GridCell.Tab.0.left" timestamp="1589793164298">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589793164298" />
+    <state width="1877" height="215" key="GridCell.Tab.0.left/0.0.1920.1050/6.-1080.1920.1050@0.0.1920.1050" timestamp="1589534982093" />
+    <state width="1877" height="215" key="GridCell.Tab.0.right" timestamp="1589793164299">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="215" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589793164299" />
+    <state width="1877" height="215" key="GridCell.Tab.0.right/0.0.1920.1050/6.-1080.1920.1050@0.0.1920.1050" timestamp="1589534982094" />
     <state x="744" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589513393321">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -347,6 +382,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="719" y="325" key="git4idea.merge.GitMergeDialog/0.0.1920.1050/6.-1080.1920.1050@0.0.1920.1050" timestamp="1589513731308" />
+    <state x="2622" y="155" key="refactoring.ChangeSignatureDialog" timestamp="1589792290263">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2622" y="155" key="refactoring.ChangeSignatureDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589792290263" />
   </component>
   <component name="masterDetails">
     <states>
