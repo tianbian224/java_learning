@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="513f00ee-03a1-4ca3-a93d-6192d2eac899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/Pro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/发布/FootballNews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/发布/INewsCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/发布/StockNews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/订阅/IListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/重写/订阅/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/装饰模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/装饰模式/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/使用java自带的观察者模式_不重要/订阅者/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/PoliticalNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/PoliticalNews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/StockNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/发布者/StockNews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/DoctorObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/DoctorObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/TeacherObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/自己写观察者模式/订阅者/TeacherObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/Pro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器模式/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/享元模式/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/享元模式/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +221,7 @@
       <workItem from="1574001167348" duration="5890000" />
       <workItem from="1574087105781" duration="4763000" />
       <workItem from="1589513043421" duration="348000" />
-      <workItem from="1589772427096" duration="4878000" />
+      <workItem from="1589772427096" duration="6681000" />
     </task>
     <task id="LOCAL-00001" summary="学习动态代理">
       <created>1540870274969</created>
